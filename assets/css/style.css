@@ -1,0 +1,43 @@
+body {
+    background-color: #ed8a63;
+    
+}
+/* .nav-wrapper .right >li{
+    color: red; #3a4660;
+}
+.brand-logo {
+    color: #ed8a63;
+} */
+.main {
+background-color: white;
+margin: 80px;
+height: 700px auto;
+}
+nav ul li a{
+    color: #ed8a63;
+  }   
+nav .brand-logo {
+    color: #ed8a63
+}
+h2, p{
+    color: #ed8a63;
+}
+h3,  {
+    color: black;
+}
+.footer-copyright {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: red; */
+    color: black;
+    text-align: center;
+}
+@media only screen and (min-width: 993px){
+    nav a.button-collapse {
+        display: block;
+    }
+    }
+
+    /* //do some mediaquery to fix the pages.// */
